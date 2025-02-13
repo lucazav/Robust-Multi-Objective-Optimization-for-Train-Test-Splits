@@ -1,0 +1,13 @@
+name: ml_tools
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ipykernel
+  - numpy
+  - openpyxl
+  - pandas
+  - pyjanitor
+  - scipy
+  - scikit-learn
+  - tqdm
