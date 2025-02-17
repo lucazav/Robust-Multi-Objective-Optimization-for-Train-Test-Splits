@@ -12,7 +12,7 @@ When splitting datasets, even minor variations in the random seed can lead to si
 
 The approach detailed in this repository is based on the analysis described in the article:
 
-[Unexpected Strength of a Random Seed Change (and How to Control It): The Hidden Defect in Your Machine Learning Model](https://github.com/lucazav/Robust-Multi-Objective-Optimization-for-Train-Test-Splits)
+[Unexpected Strength of a Random Seed Change (and How to Control It): The Hidden Defect in Your Machine Learning Model](https://medium.com/data-science-collective/unexpected-strength-of-a-random-seed-change-and-how-to-control-it-the-hidden-defect-in-your-ml-0a824dea3ecf)
 
 ## Repository Structure
 
